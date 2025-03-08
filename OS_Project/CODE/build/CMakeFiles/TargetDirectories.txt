@@ -1,0 +1,4 @@
+/mnt/d/work/OS_PROJ/build/CMakeFiles/Ludo.dir
+/mnt/d/work/OS_PROJ/build/CMakeFiles/edit_cache.dir
+/mnt/d/work/OS_PROJ/build/CMakeFiles/rebuild_cache.dir
+/mnt/d/work/OS_PROJ/build/CMakeFiles/Ludo_autogen.dir
